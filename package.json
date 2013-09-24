@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "Nunjucks wrapper, adds Jinja2 engine for Sails/Express in a simplest way.",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/rootStar-lock/nunjs.git"
+  },
+  "homepage": "https://github.com/rootStar-lock/nunjs",
   "scripts": {
   },
   "keywords": [

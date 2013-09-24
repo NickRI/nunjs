@@ -6,6 +6,9 @@ Nunjucks wrapper, adds Jinja2 engine for __Sails/Express__ in a simplest way.
 
 ## Install
 
+#### Basic
+	$ npm install nunjs 
+	
 #### From GitHub
 	$ npm install git://github.com/rootStar-lock/nunjs.git
 
