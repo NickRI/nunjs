@@ -1,0 +1,18 @@
+{
+  "name": "nunjs",
+  "version": "0.0.1",
+  "description": "Nunjucks wrapper, adds Jinja2 engine for Sails/Express in a simplest way.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "express",
+    "sails",
+    "nunjucks"
+  ],
+  "author": "rootStar",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "nunjucks": "~0.1.10"
+  }
+}
