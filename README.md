@@ -4,6 +4,9 @@ Nunjucks wrapper, adds Jinja2 engine for __Sails/Express__ in a simplest way.
 
 [Sails](http://sailsjs.org/) is great! But it's absolutly unconfigurable. There are only two template engines to choose - `ejs` and `jade`. I hate them both. Jinja is simplier and better for me. I'm sure you are lazy like me and prefer to use powerful modules ready-to-use, without _voodoo_ practices.
 
+## Important!
+_This module is a patch for sails.js version 0.9.4 and earlier. For newest versions, you can fully use __[consolidate](https://github.com/visionmedia/consolidate.js)__d nunjucks module_
+
 ## Install
 
 #### Basic
