@@ -49,8 +49,6 @@ After that add your `.nunjs` templates in your views folder.
 
 #### Contacts
 
-- Email: deneb808@gmail.com
-
 
 _My own luna park with nuns and chess :) Enjoy_
 
